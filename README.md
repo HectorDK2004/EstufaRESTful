@@ -5,7 +5,7 @@ Aprimoramento do projeto de API para estufa automatizada, com ênfase no modelo 
   - Java 17 deve estar instalado no dispositivo de teste. 
   - Antes de iniciar o programa, certifique-se de ter previamente criado a database com o nome "estufa_db".
   - Para utilizar o sistema, precisará de alguma ferramenta dedicada à teste de requisições para APIs RESTful. Para este projeto, é indicado o Postman.
-  - Inicializar o .jar da API (localizado dentro do diretório "/Target" do projeto) com o seguinte comando:
+  - Inicializar o .jar da API (localizado dentro do diretório do projeto) com o seguinte comando:
     ```bash
     java -jar estufarestful.jar
 
